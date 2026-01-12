@@ -24,6 +24,15 @@ No noise. I build backend systems that work.
 
 ---
 
-## It's from me😊
+## 🎯 Interests
 
-✍🏼*Every project: new experiences, new knowledges*
+- Social Networks
+- Documentary and historical films
+- Artificial intelligences
+- Mobile games
+
+---
+
+## 😊It's from me
+
+*Every project: new experiences, new knowledges*
