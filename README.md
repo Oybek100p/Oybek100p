@@ -16,11 +16,11 @@ No noise. I build backend systems that work.
 
 ---
 
-## 📌 Focus
+## 📌 Soft skills
 
-* Clean backend architecture
-* Scalable Django projects
-* Real-world problem solving
+* Teamwork
+* English laguage
+* Code reading and checking 
 
 ---
 
