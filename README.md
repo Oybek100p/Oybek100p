@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Pushkinov
 
-<!--
-**Oybek100p/Oybek100p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer**
 
-Here are some ideas to get you started:
+No noise. I build backend systems that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+* **Language**: Python
+* **Frameworks**: Django, Django REST Framework
+* **Database**: PostgreSQL
+* **Tools**: Git, GitHub, AI, VS Code, Bootstrap
+* **Basics**: REST API, Auth, CRUD, Deployment (AWS EC2)
+
+---
+
+## 📌 Focus
+
+* Clean backend architecture
+* Scalable Django projects
+* Real-world problem solving
+
+---
+
+## It's from me😊
+
+✍🏼*Every project: new experiences, new knowledges*
